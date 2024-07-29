@@ -6,11 +6,10 @@ const Summary = () => {
       <p className="text-2xl font-bold">Summay</p>
       <div className="divider divider-neutral"></div>
       <p className="mb-4 text-justify">
-        Welcome to my LinkedIn profile! I am Arthas Liu, an enthusiastic and
-        dedicated web developer with a profound passion for science. My journey
-        in the tech world has been shaped by my expertise in JavaScript, react,
-        Next.js, which has allowed me to craft innovative solutions and
-        contribute to diverse projects.
+        I am Arthas Liu, an enthusiastic and dedicated web developer with a
+        profound passion for science. My journey in the tech world has been
+        shaped by my expertise in JavaScript, react, Next.js, which has allowed
+        me to craft innovative solutions and contribute to diverse projects.
       </p>
       <p className="text-justify">
         Proficient in JavaScript, React, and Next.js for building dynamic,

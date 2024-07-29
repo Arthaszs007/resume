@@ -1,16 +1,14 @@
 import Navigation from "@/components/navigation";
-import Summary from "@/components/summary";
-import Title from "@/components/title";
 import React from "react";
+import Contact from "@/components/contact";
 
-const Main = () => {
+const ContactMe = () => {
   return (
     <div className="flex flex-col gap-6 my-6">
       <Navigation />
-      <Title />
-      <Summary />
+      <Contact />
     </div>
   );
 };
 
-export default Main;
+export default ContactMe;
